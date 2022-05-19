@@ -14,7 +14,7 @@ Available flex shapes:
 
 variable "shape" {
   type    = string
-  default = "VM.Standard.E4.Flex"
+  default = "VM.Standard.A1.Flex"
 }
 
 variable "how_many_nodes" {
